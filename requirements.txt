@@ -1,0 +1,6 @@
+PyMuPDF
+pytesseract
+opencv-python
+numpy
+Pillow
+python-docx
