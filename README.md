@@ -158,6 +158,9 @@ convertidorpdf-word-ocr/
 
 ---
 
-## 📄 Licencia
+## 📄 Créditos y Licencia
 
-Este proyecto se distribuye bajo la licencia MIT. Siéntete libre de utilizarlo y modificarlo según tus necesidades.
+Desarrollado por **Antonio Soto Developer**.
+
+Este proyecto ha sido creado por Antonio Soto Developer. Todos los derechos sobre la autoría y el código pertenecen a su desarrollador. Siéntete libre de utilizarlo, personalizarlo y adaptarlo a tus necesidades.
+
